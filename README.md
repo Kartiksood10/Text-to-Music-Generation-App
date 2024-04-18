@@ -1,6 +1,6 @@
 # Text-to-Music-Generation-App
 
-Generate Music using natural language prompts using Meta's MusicGen Small Model.
+Generate Music using natural language prompts and Meta's MusicGen Small Model.
 
 MusicGen Text to Audio Model: https://github.com/facebookresearch/audiocraft/tree/main/audiocraft
 
